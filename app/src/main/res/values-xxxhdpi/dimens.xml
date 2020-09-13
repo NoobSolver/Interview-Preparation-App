@@ -1,0 +1,9 @@
+<resources>
+	<dimen name="activity_vertical_margin">48dp</dimen>
+	<dimen name="nav_header_vertical_spacing">24dp</dimen>
+	<dimen name="activity_horizontal_margin">48dp</dimen>
+	<dimen name="fab_margin">48dp</dimen>
+	<dimen name="nav_header_height">528dp</dimen>
+	<dimen name="expanded_toolbar_title_margin_start">300dp</dimen>
+	<dimen name="app_bar_height">300dp</dimen>
+</resources>

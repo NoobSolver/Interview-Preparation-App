@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="dailyquiz">Daily quiz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- sub activities  -->
+    <string name="sub_daily">Daily Quiz</string>
+    <string name="sub_interview">Interview</string>
+    <string name="sub_notification">Notification</string>
+
+    <!-- login google button -->
+    <string name="google_sign_up">Sign in with Google</string>
+    <string name="text_info">Make sure you have good Internet connection</string>
+    <string name="text_infos">Google Sign in required for Authentication Purpose</string>
+    <string name="appname">Examen</string>
+    <string name="logo_image">App Logo</string>
+
+    <!-- notification -->
+
+    <string name="notify_text">Coming soon...</string>
+    <!-- header navigation menu -->
+    <string name="sign_out">Sign out</string>
+    <string name="tech_news">Tech News</string>
+    <string name="notification">Notification </string>
+    <string name="action_settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="about_us">About Us</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="like_us">Like us on Facebook</string>
+    <string name="about_developer">About Developer</string>
+    <string name="contact_us">Contact us:-mathuranant123@gmail.com</string>
+
+    <!-- Content Navigation or change this placeholder text-->
+    <string name="daily_quiz">Daily Quiz</string>
+    <string name="Interview">Interview</string>
+    <!-- content language describation -->
+    <string name="c_program">C Program</string>
+    <string name="resultall">Result Quiz</string>
+
+
+    <!-- content submenu describation -->
+    <string name="welcome">Welcome</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="smart_point_sname">QuizApp</string>
+    <string name="str_next">Next</string>
+
+    <!-- content of interview fresher experience -->
+    <string name="freshers">Freshers</string>
+    <string name="experience">Experience</string>
+    <string name="interview">Interview</string>
+    <string name="technical">Technical</string>
+
+    <string name="not_close_session">notclose_session</string>
+
+    <!--    news content description -->
+    <string name="title">This is news title</string>
+    <string name="description">This is news description</string>
+    <string name="author">News Author</string>
+    <string name="newstime">Time</string>
+    <string name="imagedescription">Tech News</string>
+
+    <!-- home fragment resource -->
+    <string name="python">Python</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="cprogram">CProgram</string>
+    <string name="back_arrow">back_arrow</string>
+
+    <!--- header navigation -->
+    <string name="profile_gmail">Gmail Profile</string>
+    <string name="gmailName">examen@gmail.com</string>
+    <string name="dis_username">Examen</string>
+
+    <!-- menu setting -->
+    <string name="logout">Logout</string>
+    <!---  Notification  -->
+    <string name="coming_soon">Coming soon..</string>
+    <string name="notificationImg">Notification Image</string>
+
+
+    <string name="question_quiz">Question: 1/x</string>
+    <string name="qestion_text">Here will be the question text\nHere will be the question text\nHere will be the question text"
+        </string>
+
+    <!---  about us   -->
+
+    <string name="app_version">App Version 1.0</string>
+    <string name="description_app">
+        App enable you to play quiz from different computer languages.
+        We show Result of each question after completion of quiz.
+        six language are active now like Android, Java, C, Sqlite, Python,
+        ReactJS, Machine Learning.in feature we are going to active more languages for you.
+        You can Share the app with your friends.
+    </string>
+    <string name="photos">Photos</string>
+    <string name="Result">Result</string>
+    <string name="Retest">Retest</string>
+    <!-- Quiz radio button value -->
+    <string name="radiobuttona">RadioButtonA</string>
+    <string name="radiobuttonb">RadioButtonB</string>
+    <string name="radiobuttonc">RadioButtonC</string>
+
+
+    <!-- fresher quiz -->
+    <string name="fresher">Fresher Quiz</string>
+    <string name="a_question">1.Tell me about Yourself?</string>
+    <string name="a_ans">My name is Gaurav Kumar Mathur. I belongs
+        to Rajasthan and I am doing Btech  in Computer science.
+        I have four members in my family</string>
+
+    <string name="b_question">2.What is your greatest weakness?</string>
+    <string name="b_ans">I can not say no when someone ask for help
+      and I am a bit lazy about which I am not interested </string>
+
+    <string name="c_question">3.How do you handle stress and pressure??</string>
+    <string name="c_ans">stress is very important to me because
+        I do best under stress and pressure.
+        I’ve found that I really enjoy working in a challenging environment.</string>
+
+    <string name="d_question">4.Why should we hire you?</string>
+    <string name="d_ans">Sir,as I am a fresher,i have theoretical knowledge but
+        I can do hard work for my organization.And I will put all my efforts
+        for the good progress of organization.Being punctual ans sincere,
+        I can finish the work given to me on time and try
+        my best to fulfill and the needs of company from me.</string>
+
+    <string name="e_question">5.Why do you want to work here?</string>
+    <string name="e_ans"> Sir, it is a great privilege for anyone to work in a reputed company like yours.
+        When I read about your company I found that my skills are matching your requirements.
+        Here I can showcase my skills to contribute to the company growth.</string>
+
+    <string name="f_question">6.What do you know about the company?</string>
+    <string name="f_ans"> it is one of best growing comapny in india.The work
+        environment of company is very good.People feel proud to be
+        part of the company as company provide full support to their
+        employees in professional front it has many branches across the world so
+        I have good opportunity to show my talent</string>
+
+    <string name="g_question"> 7.What are your salary requirements?</string>
+    <string name="g_ans"> I am fresher.Salary is not first priority for me.
+        this is a big platform to start my career and i also want to
+        improve my knowledge and skill and gain experience.
+        so i expect a considerable of salary according to my ability
+        and your company's norms which will fulfill my economical needs </string>
+
+    <string name="h_question">8.What are your career goals?</string>
+    <string name="h_ans">My short term goal is to get a job in reputed company where i can utilize my skills and improve my career path.
+        My long term goal is be in respectable position in that organization. .</string>
+
+    <string name="i_question">9.Tell me what you know about this company?</string>
+    <string name="i_ans">Tit is one of best growing comapny in india.The work
+              environment of company is very good.People feel proud to be
+          part of the company as company provide full support to their employess in professinal front
+           it has many branches across the world so I have good opportunity to show my talent.</string>
+
+    <string name="j_question">10.Give me an example of your creativity? </string>
+    <string name="j_ans">My creativity is l have learned from my mistakes,
+        I do try to make failures in success. even I believe that failure is stepping stone of success.
+        failures are always big lessons from life.</string>
+
+    <string name="k_question">11.How do you feel about working nights and weekend?</string>
+    <string name="k_ans">i am a fresher and energetic. I have a no problem to do work late nights.
+        but I will try my best to finish my work within the working hours.
+        and I believe in your company and if the company is demanding me,
+        then there is some reason behind that and i can assist my company as I can.
+    </string>
+
+    <string name="l_question">12.What motivates you?</string>
+    <string name="l_ans">Primarily, my ability to work hard and delivering result motivates me.
+        But subsequent recognition of my efforts gives me the encouragement for my next efforts.
+    </string>
+
+
+    <string name="n_question">13.Where do you see yourself in 5 years?</string>
+    <string name="n_ans"> In five years’ time, I see myself growing along with the team,
+        developing and using new skills to the benefit of the organization.
+        I find this position extremely motivating and exciting.
+        I can imagine many challenges lying ahead of me, which I am excited to experience.
+        And therefore, I am eager to invest my five years time learning all
+        facets of the job towards professional advancement.</string>
+
+
+    <string name="m_question">14.Your interview is more or less coming to an end when the interviewer asks you,
+        “Do you have any questions for me?” </string>
+    <string name="m_ans"> “How has your journey been so far in this organization?
+        What excites you the most about working here?
+        How long does it ideally take a person to prove their caliber here?
+        Where is the organization headed in the next years?
+        What are the next steps of this interview?” </string>
+
+
+    <!-- experience  question -->
+    <string name="experience_quiz">Experience Quiz</string>
+    <!-- quiz 1-->
+    <string name="a_questions">1.Tell me about Yourself?</string>
+    <string name="a_answer"> My name is Gaurav Kumar Mathur.I am doing Btech in Computer
+        Application i have 1 year experience in Android Developement and we are six
+        member in my family including me .
+    </string>
+    <!-- quiz 2 -->
+    <string name="b_questions">2.What should i hire you?</string>
+    <string name="b_answer">with reference to my work experience,i Satisfy all the requirement
+          for this job. i am sincere with my work and would never let you down in anyway.
+          I promise you will never regret for the decision to appoint me in your organization.
+    </string>
+    <!-- quiz 3-->
+    <string name="c_questions">3.What are your salary requirements?</string>
+    <string name="c_answer">I have 2 years of experience in Android developement
+           field.my current ctc is 3.5 lpa salary has never been a big issues for me.
+           Still i am expecting salary as company norms as per my designation and my
+           qualification and experience which can help me to maintain the standard of
+           level of my personal and economical needs.
+    </string>
+    <!-- quiz 4 -->
+    <string name="d_questions">4.What are your career goals?</string>
+    <string name="d_answer">My short term goal is to get a job in reputed company where
+            I can utilize my skills and improve my career path. My long term goal is be
+            in respectable position in that organization.
+   </string>
+
+    <!-- quiz 5 -->
+    <string name="e_questions">5.Did you have any failures in your life?</string>
+    <string name="e_answer">I failed to score a good percentage in my graduation time.
+             i work hard for it but I scored less than what I expected.when I think
+             about percentage there will always regret for me.
+    </string>
+    <!-- quiz 6 -->
+    <string name="f_questions">6.What are your Weakness?</string>
+    <string name="f_answer">I can not say no when someone ask for help
+             and i am a bit lazy about which i am not interested.
+             Straightforward
+             Impatient
+             Sensitive Trust people very quickly
+             note: you should tell only two or three Weakness
+     </string>
+    <!-- quiz 7 -->
+    <string name="g_questions">7.Why are you looking for a job change?</string>
+    <string name="g_answer">I have learnt a lot of things from there. according
+          to me change are necessary for everyone to enhance your skills, knowledge
+          and for personal growth and financial growth. Your organization is the good
+          platform where I can learn more.
+    </string>
+    <!-- quiz 8 -->
+    <string name="h_questions">8.Why are you interested in working for our Company?</string>
+    <string name="h_answer">I have wanted to work in this organization for a long time now,
+        so when I heard about a vacancy in your company that fit my profile,
+        I immediately applied for it. I admire the way you successfully combine commerce
+        with socially responsible business and would love to be a part of an organization
+        that looks at business in a holistic manner.
+    </string>
+    <!-- quiz 9 -->
+    <string name="i_questions">9.Why do you want to leave your current company?</string>
+    <string name="i_answer">I have put in a number of years in my current organization,
+        performed well and risen through the ranks, but I would now like something more
+        challenging.I believe this job will provide me with exactly such an opportunity.
+    </string>
+    <!-- quiz 10 -->
+    <string name="j_questions">10. What can you offer us that someone else cannot?</string>
+    <string name="j_answers">I have already mentioned my strengths, but if you were to ask me
+        about something unique which I bring, I would say it is my attention to detail.
+        Though it can be annoying for others, this trait of mine has saved several situations
+        from turning into disasters in the past.
+    </string>
+
+    <!-- quiz 11 -->
+    <string name="k_questions">11. Tell us about an accomplishment you are most proud of?</string>
+    <string name="k_answer">I am extremely proud of the time we worked on a project with Microsoft company.
+        The selection was a gruelling process, but we managed to land the deal. The company needed services
+        that were of the highest standards and I am proud to say that we surpassed their expectations.
+        In fact, we succeeded in converting them into our regular clients. As project leader
+        I was extremely proud of this achievement.
+    </string>
+    <!-- quiz 12 -->
+    <string name="l_questions">12.Why was there a gap in your employment </string>
+    <string name="l_answer">In case you left because of a conflict with your boss, say differences did not allow you to
+        work well together. Don’t forget to add what you realized in hindsight to show how the incident has helped you grow.
+        Never badmouth your boss; act mature and accept the fact that both of you were responsible for the situation
+        spinning out of control.
+    </string>
+    <!-- quiz 13 -->
+    <string name="n_questions">13.How do you handle failure?</string>
+    <string name="n_answer">I have always lived by the maxim that nobody is perfect, so I am relatively comfortable taking
+        responsibility for my shortcomings. My approach is to figure out what I could change to avoid similar circumstances
+        in the future
+    </string>
+
+    <!-- quiz 14 -->
+    <string name="m_questions">14.What is your philosophy towards work??</string>
+    <string name="m_answer">I have only one philosophy when it comes to work: every piece of work, regardless of size, has
+            to be done on time and in the right manner.</string>
+    <string name="score_0">Score: 0</string>
+    <string name="_00_30">00:30</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="confirm">Confirm</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="mathuranant123gmail_com">mathuranant123@gmail.com</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="NoobSolver">Gaurav Kumar Mathur</string>
+    <string name="github">Github</string>
+    <string name="profile_image_gaurav">gaurav</string>
+    <string name="imageview_desc">emails</string>
+
+
+</resources>

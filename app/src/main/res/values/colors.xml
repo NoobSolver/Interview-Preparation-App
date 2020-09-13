@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#51d8c7</color>
+    <color name="colorBlack">#212121</color>
+    <color name="colorWhite">#FFFFFF</color>
+    
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+    <color name="graylight">#fafafa</color>
+
+
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+    <color name="white">#fcfcfc</color>
+
+    <!-- about us color code -->
+    <color name="light_blue">#5DADE2</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="notification_color">#0288d1</color>
+
+    <color name="colorBackground">#BCAAA4</color>
+
+    <!-- about me profile -->
+    <color name="starblue">#09c6df</color>
+
+    <!-- home menu color properties -->
+    <color name="accent">#00BCD4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#99B6B6B6</color>
+    <color name="selector">#0D00BCD4</color>
+    <color name="selector_negative">#0DF8BBD0</color>
+
+</resources>
