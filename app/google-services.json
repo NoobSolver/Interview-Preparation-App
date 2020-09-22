@@ -1,52 +1,37 @@
 {
   "project_info": {
-    "project_number": "403271001593",
-    "firebase_url": "https://examen-mvp.firebaseio.com",
-    "project_id": "examen-mvp",
-    "storage_bucket": "examen-mvp.appspot.com"
+    "project_number": "751571545015",
+    "firebase_url": "https://interview-app-5efa5.firebaseio.com",
+    "project_id": "interview-app-5efa5",
+    "storage_bucket": "interview-app-5efa5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:403271001593:android:3aa85ae7efb7a41c",
+        "mobilesdk_app_id": "1:751571545015:android:191abc48b5d03b1a9ad632",
         "android_client_info": {
           "package_name": "com.dorvis.quizapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "403271001593-brk0hvksbr2obegp7f6vrmrorcnmh9ci.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.sainath.examen",
-            "certificate_hash": "b587ea68a580c12ad066466e740e6db3b4826259"
-          }
-        },
-        {
-          "client_id": "403271001593-p9g861mka9lg0p32on345g5rq83ehju2.apps.googleusercontent.com",
+          "client_id": "751571545015-ceiehl8qb5q2o2s17nu4ihcudtgrqd5v.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCv4K3TTEjuaFikOej4cjXpJixc4gH3Z7U"
+          "current_key": "AIzaSyBs3SZBAaknuvAM_0N_SZ3ZsLLrMl_xV6k"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "403271001593-p9g861mka9lg0p32on345g5rq83ehju2.apps.googleusercontent.com",
+              "client_id": "751571545015-ceiehl8qb5q2o2s17nu4ihcudtgrqd5v.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
