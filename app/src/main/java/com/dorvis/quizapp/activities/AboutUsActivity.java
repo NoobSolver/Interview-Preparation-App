@@ -35,7 +35,7 @@ public class AboutUsActivity extends AppCompatActivity {
             public void onClick(View arg0) {
 
                 Intent intent = new Intent(Intent.ACTION_VIEW,
-                        Uri.parse("https://github.com/Sainathhiwale"));
+                        Uri.parse("https://github.com/NoobSolver"));
                 startActivity(intent);
 
             }
