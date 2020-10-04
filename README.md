@@ -1,3 +1,3 @@
-# Interview-Preparation-App
+## Interview-Preparation-App
 
-This is the quiz App of preparation for interview.
+This is the quiz App for preparation of interview.
