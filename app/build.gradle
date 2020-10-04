@@ -2,15 +2,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 
 android {
-    signingConfigs {
-        config {
-            keyAlias 'ExamenKey'
-            keyPassword 'rudra@123_4'
-            storeFile file('/home/sai/Desktop/ExamenAppKey/myappkey.jks')
-            storePassword 'rudra@123_4'
-
-        }
-    }
+    
     compileSdkVersion 26
     defaultConfig {
         applicationId "com.dorvis.quizapp"
