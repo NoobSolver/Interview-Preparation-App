@@ -1,9 +1,5 @@
 package com.dorvis.quizapp.model;
 
-/**
- * Created by sai on 18/2/18.
- */
-
 public class Question3 extends Question {
     private int PYTHONID;
     private String PythonQUESTION;
