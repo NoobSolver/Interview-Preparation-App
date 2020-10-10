@@ -27,14 +27,14 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="45dp"
                 android:contentDescription="@string/github_profile"
-                android:src="@drawable/sai" />
+                android:src="@drawable/gaurav" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="10dp"
-                android:text="Sainath Hiwale"
+                android:text="Gaurav Mathur"
                 android:textColor="#fff"
                 android:textSize="21sp"
                 android:textStyle="bold" />
@@ -152,7 +152,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingStart="20dp"
-                android:text="@string/sainathhiwale2_gmail_com"/>
+                android:text="@string/cu.18bcs2035_gmail_com"/>
         </LinearLayout>
 
     </LinearLayout>
