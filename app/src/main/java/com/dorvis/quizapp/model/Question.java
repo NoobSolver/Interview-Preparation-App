@@ -1,9 +1,4 @@
 package com.dorvis.quizapp.model;
-
-/**
- * Created by sai on 16/2/18.
- */
-
 public class Question {
     private int ID;
     private String QUESTION;
