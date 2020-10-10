@@ -40,9 +40,6 @@ import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.common.api.Status;
 
 import java.io.File;
-/*
- created by Sainath Hiwale
- */
 
 public class NavigationActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener {
     private static final String TAG = "NavigationActivity";
@@ -299,12 +296,12 @@ public class NavigationActivity extends AppCompatActivity implements GoogleApiCl
     }
     private void showContactUsDialog() {
         new AlertDialog.Builder(this)
-                .setMessage("For any queries contact this email \n sainathhiwale5@gmail.com")
+                .setMessage("For any queries contact this email \n cu.18bcs2035@gmail.com")
                 .setPositiveButton("send email", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         dialog.dismiss();
-                        startActivity(new Intent(Intent.ACTION_SENDTO, Uri.parse("mailto:sainathhiwale5@gmail.com")));
+                        startActivity(new Intent(Intent.ACTION_SENDTO, Uri.parse("mailto:cu.18bcs2035@gmail.com")));
                     }
                 }).create().show();
 
