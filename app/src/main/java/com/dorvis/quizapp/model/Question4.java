@@ -1,9 +1,4 @@
 package com.dorvis.quizapp.model;
-
-/**
- * Created by sai on 18/2/18.
- */
-
 public class Question4 extends Question {
     private int CID;
     private String CQUESTION;
