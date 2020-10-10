@@ -16,12 +16,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-
-/**
- * Created by sai on 15/2/18.
- */
-
-
 public class AndyDatabaseHelper extends SQLiteOpenHelper {
     private static final String TAG = "AndyDatabaseHelper";
     private static final int DATABASE_VERSION = 1;
