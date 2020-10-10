@@ -26,16 +26,16 @@
                 android:layout_height="150dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="45dp"
-                android:contentDescription="@string/profile_image_sainath"
-                android:src="@drawable/sai"
-                app:srcCompat="@drawable/sai" />
+                android:contentDescription="@string/profile_image_gaurav"
+                android:src="@drawable/gaurav"
+                app:srcCompat="@drawable/gaurav" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="10dp"
-                android:text="@string/sainath_hiwale_profile"
+                android:text="@string/gaurav_mathur_profile"
                 android:textColor="#fff"
                 android:textSize="21sp"
                 android:textStyle="bold" />
@@ -95,7 +95,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:paddingTop="10dp"
-                        android:text="@string/folloers_8"
+                        android:text="@string/followers_8"
                         android:textColor="@color/starblue"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -153,7 +153,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="20dp"
-                android:text="@string/sainathhiwale_gmail2"
+                android:text="@string/cu.18bcs2035_gmail"
                 android:paddingStart="20dp" />
         </LinearLayout>
 
