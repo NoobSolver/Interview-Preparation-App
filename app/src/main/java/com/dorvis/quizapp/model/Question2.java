@@ -1,9 +1,5 @@
 package com.dorvis.quizapp.model;
 
-/**
- * Created by sai on 16/2/18.
- */
-
 public class Question2 extends Question {
     private int JAVAID;
     private String JavaQUESTION;
